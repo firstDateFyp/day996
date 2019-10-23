@@ -5,3 +5,6 @@
 #添加到master还是YeKo branc  yeko 
 
 #怎么提交到master  
+
+
+# 新的分支 fork 后修改 能上传
